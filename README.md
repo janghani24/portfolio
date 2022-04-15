@@ -32,5 +32,5 @@
 > [TIL](https://github.com/janghani24/TIL) 참고
 
 ## ⭐ Education
-> 솔데스크 자바(JAVA)를 활용한 빅데이터 융합 개발자 양성과정 B
+> 솔데스크 자바(JAVA)를 활용한 빅데이터 융합 개발자 양성과정 B  
 > 2021.08.31 ~ 2022.04.01
