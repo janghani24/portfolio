@@ -21,7 +21,7 @@
 * Me In & Out (MIO)
 > 미닝아웃을 주제로한 상품판매와 여러 펀딩을 모아서 보여주는 서비스 (팀 프로젝트)  
 > 개발기간 : 2022.02.21 ~ 2022.03.25  
-> 사용 기술 : JAVA 14 / Spring 1.6 / oracle 18c / Maven / javascript  
+> 사용 기술 : JAVA 14 / Springframework 3.1.1 / oracle 18c / Maven / javascript  
 >  
 >[프로젝트 상세 설명](https://github.com/janghani24/MIO) 참고
 
