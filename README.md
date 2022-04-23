@@ -11,7 +11,7 @@
 
 
 ## ⭐ Contact
-* 이메일 : violetear24@naver.com
+* 이메일 : janghani0212@gmail.com
 * 깃헙 : https://github.com/janghani24
 
 <br>
