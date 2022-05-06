@@ -19,7 +19,7 @@
 * Me In & Out (MIO)
 > 미닝아웃을 주제로한 상품판매와 여러 펀딩을 모아서 보여주는 웹사이트 (팀 프로젝트)  
 > 개발기간 : 2022.02.21 ~ 2022.03.25  
-> 사용 기술 : Java 14 / SpringMVC / Oracle DB / Maven / Mybatis / Javascript ES6  
+> 사용 기술 : Java 1.8 / SpringMVC / Oracle DB / Maven / Mybatis / Javascript / HTML / CSS  
 >  
 >[프로젝트 상세 설명](https://github.com/janghani24/MIO) 참고
 
@@ -29,7 +29,7 @@
 > 소통가능한 부동산 커뮤니티(팀 프로젝트)   
 > 담당 : 복비 계산기, 지도 api, 매물 상세검색   
 > 개발기간 : 2021.12.14 ~ 2022.01.14   
-> 사용 기술 : Java 14 / JSP Model 2 / Oracle DB / JavaScript ES6   
+> 사용 기술 : Java 1.8 / JSP Model 2 / Oracle DB / JavaScript / HTML / CSS    
 >     
 >[프로젝트 깃허브](https://github.com/Three-house/semi-project) 
 
