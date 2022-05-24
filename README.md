@@ -34,8 +34,6 @@
 >[프로젝트 깃허브](https://github.com/Three-house/semi-project) 
 
 
-## ⭐ TIL 깃허브
-> 학원 수업 수강기간에 스터디 그룹을 만들어 복습한 내용을 올렸습니다.  
-> [TIL](https://github.com/janghani24/TIL) 참고
+
 
 
